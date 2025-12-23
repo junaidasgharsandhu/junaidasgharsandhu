@@ -15,11 +15,15 @@ I'm passionate about cybersecurity and enjoy tackling complex challenges through
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/junaidasgharsandhu/vulnerability-management-program)**  
-  *Simulated end-to-end implementation of an enterprise vulnerability management program using Tenable and Azure virtual infrastructure.  
-  Covers policy creation, stakeholder engagement, authenticated vulnerability scanning, risk-based prioritization, remediation coordination, and CAB-approved change management.  
-  Includes multiple remediation cycles with measurable risk reduction and transition into ongoing maintenance mode.*  
-  **Skills:** Vulnerability Management, Tenable/Nessus, Risk Prioritization, Patch Management, PowerShell Remediation, Change Management (CAB)
+* **[Azuki Import/Export – Incident Response & Threat Hunt (Part 1)](https://github.com/junaidasgharsandhu/azuki-threat-hunt-part1)**
+  *SOC-style incident response and threat hunting investigation using Microsoft Defender for Endpoint (MDE).
+  Focuses on initial access via compromised credentials (RDP), Defender evasion, LOLBins abuse (certutil, PowerShell, schtasks), credential dumping (LSASS), persistence mechanisms, data staging, exfiltration, and lateral movement mapped to MITRE ATT&CK.*
+  **Skills:** Threat Hunting (KQL), Incident Response, Microsoft Defender for Endpoint, Log Analysis, MITRE ATT&CK, Windows Internals
+
+* **[Azuki Import/Export – Incident Response & Threat Hunt (Part 3)](https://github.com/junaidasgharsandhu/azuki-incident-response-report)**
+  *Advanced continuation of the Azuki incident series, expanding on post-exploitation analysis, deeper credential abuse scenarios, extended persistence techniques, and refined threat hunting methodology within Microsoft Defender for Endpoint.*
+  **Skills:** Advanced Threat Hunting, Incident Response, MDE, Adversary Emulation, Detection Engineering
+
 
 
 ---
@@ -40,3 +44,5 @@ I'm passionate about cybersecurity and enjoy tackling complex challenges through
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
+
