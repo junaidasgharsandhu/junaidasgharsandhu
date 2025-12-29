@@ -10,6 +10,11 @@ I'm passionate about cybersecurity and enjoy tackling complex challenges through
   Focuses on initial access via compromised credentials (RDP), Defender evasion, LOLBins abuse (certutil, PowerShell, schtasks), credential dumping (LSASS), persistence mechanisms, data staging, exfiltration, and lateral movement mapped to MITRE ATT&CK.*  
   **Skills:** Threat Hunting (KQL), Incident Response, Microsoft Defender for Endpoint, Log Analysis, MITRE ATT&CK, Windows Internals
 
+* **[Azuki Import/Export – Incident Response & Threat Hunt (Part 2)](https://github.com/junaidasgharsandhu/azuki-threat-hunt-mde)**  
+  *Continuation of the Azuki Import/Export incident, focusing on attacker re-entry, lateral movement to a file server, internal discovery, credential access, data staging, compression, cloud-based exfiltration, and anti-forensic activity.  
+  This investigation follows a full SOC-style methodology using Microsoft Defender for Endpoint and Sentinel, building a complete attack timeline and mapping each stage to MITRE ATT&CK.*  
+  **Skills:** Threat Hunting (KQL), Incident Response, Microsoft Defender for Endpoint, Microsoft Sentinel, Lateral Movement Analysis, Credential Access Detection, Data Exfiltration, MITRE ATT&CK
+
 * **[Azuki Import/Export – Incident Response & Threat Hunt (Part 3)](https://github.com/junaidasgharsandhu/azuki-incident-response-report)**  
   *Advanced continuation of the Azuki incident series, expanding on post-exploitation analysis, deeper credential abuse scenarios, extended persistence techniques, and refined threat hunting methodology within Microsoft Defender for Endpoint.*  
   **Skills:** Advanced Threat Hunting, Incident Response, Microsoft Defender for Endpoint, Adversary Emulation, Detection Engineering
